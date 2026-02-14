@@ -41,7 +41,7 @@ Want to Google something? First, Google "BananaMilk," click our link, *then* use
 - [Sobhan Ranjbar] (https://github.com/Sonra0)
 - [Nastaran Pedari] (https://github.com/Nasichan)
 - [Melika Toufan] (https://github.com/mel480)
-- Mojo 
+- [Mojo] (https://github.com/therealmojo)
 
 
 ## 🎯 Why Does This Exist?
