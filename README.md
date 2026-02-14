@@ -1,4 +1,4 @@
-# 🍌 BananaMilk 🥛
+# 🍌 BananaMilk
 
 **The search engine you have to search for to use.**
 
@@ -49,17 +49,6 @@ Want to Google something? First, Google "BananaMilk," click our link, *then* use
 Because someone at CTRL HACK DEL .2 decided to award a prize for the **Most Useless Project**, and we took that challenge seriously.
 
 We could've built something practical, useful, or innovative. Instead, we built a search engine that requires searching to find. And we're proud of it.
-
-## 🎨 Design Philosophy
-
-- **Playful Aesthetics:** Banana and milk color palette with custom animations
-- **Polished UI:** Just because it's useless doesn't mean it should look bad
-- **Smooth Interactions:** Ripple effects, hover states, and transitions throughout
-- **Responsive:** Looks great on desktop, tablet, and mobile (equally useless on all)
-
-## 🏆 Built For
-
-**CTRL HACK DEL .2 Hackathon** - "Most Useless Project" Category
 
 ## 📝 License
 
