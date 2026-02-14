@@ -38,9 +38,9 @@ Want to Google something? First, Google "BananaMilk," click our link, *then* use
 
 ## 👥 Team
 
-- Sobhan Ranjbar
-- Nastaran Pedari 
-- Melika Toufan
+- [Sobhan Ranjbar] (https://github.com/Sonra0)
+- [Nastaran Pedari] (https://github.com/Nasichan)
+- [Melika Toufan] (https://github.com/mel480)
 - Mojo 
 
 
