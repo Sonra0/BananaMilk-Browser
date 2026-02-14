@@ -26,17 +26,6 @@ Want to Google something? First, Google "BananaMilk," click our link, *then* use
 - **Hosting:** GitHub Pages / Any static hosting
 - **Backend:** None (we keep it simple and useless)
 
-## 🚀 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Sonra0/BananaMilk-Browser.git
-```
-
-2. Open `index.html` in your browser
-
-That's it. No build process. No dependencies. Just pure, unoptimized uselessness.
-
 ## 💻 Usage
 
 1. Open Google (or any search engine)
