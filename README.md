@@ -38,10 +38,10 @@ Want to Google something? First, Google "BananaMilk," click our link, *then* use
 
 ## 👥 Team
 
-- [Sobhan Ranjbar] (https://github.com/Sonra0)
-- [Nastaran Pedari] (https://github.com/Nasichan)
-- [Melika Toufan] (https://github.com/mel480)
-- [Mojo Salisu] (https://github.com/The-Realmojo)
+* **[Sobhan Ranjbar](https://github.com/Sonra0)**
+* **[Nastaran Pedari](https://github.com/Nasichan)**
+* **[Melika Toufan](https://github.com/mel480)**
+* **[Mojo Salisu](https://github.com/The-Realmojo)**
 
 
 ## 🎯 Why Does This Exist?
