@@ -1,4 +1,4 @@
-# 🍌 BananaMilk
+# 🍌 BananaMilk 🥛
 
 **The search engine you have to search for to use.**
 
@@ -41,7 +41,7 @@ Want to Google something? First, Google "BananaMilk," click our link, *then* use
 - [Sobhan Ranjbar] (https://github.com/Sonra0)
 - [Nastaran Pedari] (https://github.com/Nasichan)
 - [Melika Toufan] (https://github.com/mel480)
-- [Mojo] (https://github.com/therealmojo)
+- [Mojo Salisu] (https://github.com/The-Realmojo)
 
 
 ## 🎯 Why Does This Exist?
