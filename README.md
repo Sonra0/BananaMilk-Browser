@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="browser.bananamilk.tech_.png" alt="BananaMilk Logo" width="300px">
+  <a href="https://github.com/Sonra0/BananaMilk-Game">
+    <img src="آدرس_گیف_شما" alt="BananaMilk Hero GIF" width="800">
+  </a>
 </p>
 
-<h1 align="center">🍌 BananaMilk 🥛</h1>
+<div align="center">
 
-<p align="center">
-  <strong>The search engine you have to search for to use.</strong>
-</p>
+# 🍌 BananaMilk 🥛
+### "The search engine you have to search for to use."
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-Most_Useless-yellow?style=for-the-badge&logo=target" alt="Useless Category">
-  <img src="https://img.shields.io/badge/Made_with-🍌_&_🥛-white?style=for-the-badge" alt="Ingredients">
-</p>
+[![Project Status](https://img.shields.io/badge/Project-Most_Useless-yellow?style=for-the-badge&logo=target)](https://github.com/Sonra0)
+[![Tech Stack](https://img.shields.io/badge/Made_with-🍌_&_🥛-white?style=for-the-badge)](https://github.com/Sonra0)
+
+</div>
 
 ---
-
 # 🍌 BananaMilk 🥛
 
 **The search engine you have to search for to use.**
