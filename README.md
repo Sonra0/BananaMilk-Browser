@@ -7,8 +7,6 @@
 <div align="center">
 
 # 🍌 BananaMilk 🥛
-### "The search engine you have to search for to use."
-
 [![Project Status](https://img.shields.io/badge/Project-Most_Useless-yellow?style=for-the-badge&logo=target)](https://github.com/Sonra0)
 [![Tech Stack](https://img.shields.io/badge/Made_with-🍌_&_🥛-white?style=for-the-badge)](https://github.com/Sonra0)
 
@@ -20,6 +18,7 @@
 **The search engine you have to search for to use.**
 
 A deliciously pointless web search interface built for the CTRL HACK DEL .2 hackathon's "Most Useless Project" category.
+(They told me it was too useless to win the prize)
 
 ## 🤔 What is BananaMilk?
 
