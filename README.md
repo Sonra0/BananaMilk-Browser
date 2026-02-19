@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Sonra0/BananaMilk-Game">
-    <img src="آدرس_گیف_شما" alt="BananaMilk Hero GIF" width="800">
+    <img src="browser.bananamilk.tech_.png" alt="BananaMilk Hero GIF" width="800">
   </a>
 </p>
 
