@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="browser.bananamilk.tech_.png" alt="BananaMilk Logo" width="300px">
+</p>
+
+<h1 align="center">🍌 BananaMilk 🥛</h1>
+
+<p align="center">
+  <strong>The search engine you have to search for to use.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Most_Useless-yellow?style=for-the-badge&logo=target" alt="Useless Category">
+  <img src="https://img.shields.io/badge/Made_with-🍌_&_🥛-white?style=for-the-badge" alt="Ingredients">
+</p>
+
+---
+
 # 🍌 BananaMilk 🥛
 
 **The search engine you have to search for to use.**
